@@ -1,0 +1,1 @@
+VPATH += $(TOP_DIR)/keyboards/jbanaszczyk/common
