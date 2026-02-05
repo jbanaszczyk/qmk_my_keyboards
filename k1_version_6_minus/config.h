@@ -17,10 +17,10 @@
 #pragma once
 
 /* Indicator LEDs (Source of Truth) */
-#define LED_INDICATOR_PIN B15       // Blue LED
-#define LED_INDICATOR_ON_STATE 0    // Active Low
-#define LED_POWER_PIN A3            // Green/Power LED
-#define LED_POWER_ON_STATE 0        // Active Low
+#define LED_BLUE_PIN B15            // Blue LED
+#define LED_BLUE_ON_STATE 0         // Active Low
+#define LED_GREEN_PIN A3            // Green/Power LED
+#define LED_GREEN_ON_STATE 0        // Active Low
 // Caps Lock is handled via info.json: A13, active high (1), generates LED_CAPS_LOCK_PIN and LED_PIN_ON_STATE
 
 /* I2C Driver Configuration */

@@ -23,7 +23,8 @@
         "mousekey": true,
         "nkro": true,
         "sendstring": true,
-        "raw_hid": true
+        "raw_hid": true,
+        "dynamic_macro": true
     },
     "diode_direction": "ROW2COL",
     "indicators": {
